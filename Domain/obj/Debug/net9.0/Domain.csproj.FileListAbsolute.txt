@@ -1,0 +1,13 @@
+D:\Tasks\Reactivities\Activities\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Tasks\Reactivities\Activities\Domain\bin\Debug\net9.0\Domain.dll
+D:\Tasks\Reactivities\Activities\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Tasks\Reactivities\Activities\Domain\obj\Debug\net9.0\Domain.csproj.AssemblyReference.cache
+D:\Tasks\Reactivities\Activities\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tasks\Reactivities\Activities\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Tasks\Reactivities\Activities\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Tasks\Reactivities\Activities\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Tasks\Reactivities\Activities\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+D:\Tasks\Reactivities\Activities\Domain\obj\Debug\net9.0\Domain.dll
+D:\Tasks\Reactivities\Activities\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Tasks\Reactivities\Activities\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Tasks\Reactivities\Activities\Domain\obj\Debug\net9.0\ref\Domain.dll
